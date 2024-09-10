@@ -1,0 +1,10 @@
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\bin\Debug\WinInheritance.exe.config
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\bin\Debug\WinInheritance.exe
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\bin\Debug\WinInheritance.pdb
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.csprojAssemblyReference.cache
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.Form1.resources
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.Properties.Resources.resources
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.csproj.GenerateResource.cache
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.csproj.CoreCompileInputs.cache
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.exe
+C:\Users\koray.ozdemir\source\repos\WinInheritance\WinInheritance\obj\Debug\WinInheritance.pdb
